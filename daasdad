@@ -1,0 +1,26 @@
+[33mcommit f963e4846656ee15332f3162901cc6dc86e46a31[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: ddab817 2294b0f
+Author: mevlutardic <79974022+mevlutardic@users.noreply.github.com>
+Date:   Thu Mar 4 12:09:43 2021 +0300
+
+    Merge pull request #1 from mevlutardic/test
+    
+    değişilik yapıldı
+
+[33mcommit 2294b0f12e5806498fc3a88e4eefff191faf76d6[m[33m ([m[1;31morigin/test[m[33m)[m
+Author: mevlutardic <79974022+mevlutardic@users.noreply.github.com>
+Date:   Thu Mar 4 12:08:03 2021 +0300
+
+    değişilik yapıldı
+
+[33mcommit ddab8175a911b96d1a3f55e7edc78a286a44ebc0[m
+Author: mevlutardic <79974022+mevlutardic@users.noreply.github.com>
+Date:   Thu Mar 4 12:04:19 2021 +0300
+
+    denemedosyası.
+
+[33mcommit dcf0e86d924c114719b32a31b5c52613a9193d1f[m
+Author: mevlutardic <79974022+mevlutardic@users.noreply.github.com>
+Date:   Thu Mar 4 11:59:04 2021 +0300
+
+    Initial commit
